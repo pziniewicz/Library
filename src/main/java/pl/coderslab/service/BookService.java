@@ -2,10 +2,8 @@ package pl.coderslab.service;
 
 import org.springframework.stereotype.Service;
 import pl.coderslab.model.Book;
-import pl.coderslab.repository.BookRepository;
 
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public interface BookService {
