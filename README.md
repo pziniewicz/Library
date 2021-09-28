@@ -24,7 +24,7 @@ _The Library_  project is an register of book in the library.
 The app provides some data validations. So you don't have to worry about making mistakes in data input.<br>
 None of. fields can be blank when adding new book<br>
 
-## Technologies
+## Technologies and methodologies
 
 * Spring
 * Hibernate
