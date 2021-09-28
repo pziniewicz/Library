@@ -31,4 +31,8 @@ None of. fields can be blank when adding new book<br>
 * JSP
 * MVC
 
+## Start Applicaiton
+
+After starting application in your IDE, visit http://localhost/book/ - to see the book list.
+
 **Have a nice time working with the app**
