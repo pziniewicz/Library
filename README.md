@@ -1,6 +1,6 @@
 # Library
 
-Library - Spring, hibernate - Proof of Concept
+Library - Spring, hibernate
 
 _The Library_  project is a proof of concept regarding usage o Spring and Hibernate Framework.
 
@@ -28,8 +28,9 @@ None of. fields can be blank when adding new book<br>
 
 * Spring
 * Hibernate
+* MySQL
 * JSP
-* MVC
+* Maven
 
 ## Start Applicaiton
 
